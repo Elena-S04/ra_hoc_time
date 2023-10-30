@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/1y4rho47h9oumt4h?svg=true)](https://ci.appveyor.com/project/Elena-S04/ra-hoc-time)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
